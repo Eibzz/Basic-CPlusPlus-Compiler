@@ -1,0 +1,23 @@
+//test
+/* hey
+	how ya doin
+**/
+void main()
+{
+	int x;
+	int y;
+	int z;
+	int w;
+	x = 2;
+	y = 0;
+	z = 0;
+	w = x || !y && !!z;
+	cout << w;
+	cout << !z;
+	cout << !x;
+	if(0>1) {
+		cout<<888;
+	}
+
+}
+
